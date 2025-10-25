@@ -1,6 +1,4 @@
-# Save the README content to a text file
-
-readme_content = """# 🌦️ Weather Data ETL Pipeline using Apache Airflow & Python
+# Weather-Data-ETL-Pipeline-using-Apache-Airflow
 
 ## 📘 Overview
 This project implements a complete **ETL (Extract, Transform, Load)** data pipeline using **Python** and **Apache Airflow**, designed to automate the collection and storage of **real-time weather data** from the **OpenWeather API** for major **Indian cities**.  
